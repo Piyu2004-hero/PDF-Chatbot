@@ -168,7 +168,12 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+Copyright © 2026 Piyush Saxena
+
+All rights reserved.
+
+This project is provided for educational and portfolio purposes only. No part of this project may be copied, modified, distributed, or used commercially without prior written permission from the author.
+
 
 ---
 
