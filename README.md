@@ -20,6 +20,8 @@ An AI-powered PDF Chatbot built with **Streamlit**, **LangChain**, **ChromaDB**,
 
 ---
 
+![Workflow](Assets/Workflow.png)
+
 ## 🛠️ Tech Stack
 
 - Python
