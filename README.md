@@ -1,5 +1,5 @@
 # 📚 PDF-Chatbot
-
+![Dashboard](Assets/overview.png)
 An AI-powered PDF Chatbot built with **Streamlit**, **LangChain**, **ChromaDB**, **Sentence Transformers**, and **Groq LLM**. It uses **Retrieval-Augmented Generation (RAG)** to answer questions from PDF documents using semantic search and vector embeddings.
 
 ---
